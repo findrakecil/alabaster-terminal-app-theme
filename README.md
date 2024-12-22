@@ -1,6 +1,8 @@
 # About
 
-Theme for Terminal app on macOS. Comes with light and dark variants.
+Light and dark theme for macOS Terminal app using Alabaster color palettes.
+
+# Screenshots
 
 ## Alabaster Light
 
